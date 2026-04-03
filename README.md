@@ -4,6 +4,7 @@ Created by: bydrabokin1755
 Email: bydrabokin1755@gmail.com
 
 GitHub Repository: https://github.com/Nacho-games/freeze-em
+Ithcio link: https://bydrabokin.itch.io/freeze-em
 
 This game was created for the Winter Game Jam of 2026
 
